@@ -745,10 +745,3 @@ This was my first blog post for a long time, and I hope you had as much fun read
 
 Pose estimation is a topic far, far, far from being easy and covering it in the scope of this blog post is not possible. Some of the upcoming articles I am preparing will evaluate algorithms for head pose estimation and see how they enhance the overall recognition process. But I also need time to dig through current literature, prepare interesting experiments and finally write the article - this takes time!
 
-For now I'd like to refer to the most interesting approach for object alignment I know of:
-
-* [Gary B. Huang](http://www.janelia.org/people/scientist/gary-huang), [Vidit Jain](http://vis-www.cs.umass.edu/~vidit), and [Erik Learned-Miller](http://www.cs.umass.edu/~elm/). **Unsupervised joint alignment of complex images.** International Conference on Computer Vision (ICCV), 2007. ([Project page](http://vis-www.cs.umass.edu/congeal_complex.html), [PDF Online available](http://vis-www.cs.umass.edu/congeal_complex.html), [C++ Code](https://bitbucket.org/gbhuang/congealreal))
-
-## facerec/m ##
-
-GNU Octave implementation of parts of the Python version.
