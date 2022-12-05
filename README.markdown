@@ -537,11 +537,7 @@ Once you have created your model you can call `compute` to learn it. Please see 
     </tr>
 </table>
 
-You can find the script and resources at: 
 
-* [https://github.com/bytefish/facerec/tree/master/py/apps/videofacerec](https://github.com/bytefish/facerec/tree/master/py/apps/videofacerec).
-
-Thanks to more than 100 people for watching the repository!
 
 ### usage ###
 
